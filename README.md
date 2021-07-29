@@ -8,6 +8,13 @@ I'm a fullstack web developer and graduated in biomedicine ✨
 <br>
 <br>
 
+## ✔️ Projects
+#### 🌟 [Personal Website](https://janiscostadelli.github.io/personal-website/)
+#### 🎧 [Aqua](http://ec2-3-83-69-28.compute-1.amazonaws.com:3000/)
+#### 🚀 [labe-commerce](http://labenu-labecommerce.surge.sh/)
+<br>
+<br>
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janiscostadelli/)
 
