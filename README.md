@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer and graduated in biomedicine ✨
 
-- 🔭 currently working on frontend and backend projects using React and Nodejs
+- 🔭 currently working on frontend using Angular
 - 🌱 currently learning Typescript
 
 <br>
